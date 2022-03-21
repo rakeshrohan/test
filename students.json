@@ -1,0 +1,35 @@
+{
+    "students": [
+        {
+            "firstName": "Rakesh Rohan",
+            "lastName": "Aitipamula", 
+            "id": "1a"
+        },
+        {
+            "firstName": "Sarath Kumar",
+            "lastName": "Korrapati", 
+            "id": "2a"
+        },
+        {
+            "firstName": "Chanakya Reddy",
+            "lastName": "KomatiReddy", 
+            "id": "3a"
+        },
+        {
+            "firstName": "Arjun",
+            "lastName": "Allu", 
+            "id": "3a"
+        },
+        {
+            "firstName": "Prabhas",
+            "lastName": "Raju", 
+            "id": "3a"
+        },
+        {
+            "firstName": "Mahesh Babu",
+            "lastName": "Ghattamaneni", 
+            "id": "3a"
+        }
+
+    ]
+}
